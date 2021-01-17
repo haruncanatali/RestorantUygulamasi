@@ -1,7 +1,7 @@
 
 # RestorantUygulamasi
 
-Bu projede örnek bir WinForm restorant kasa programı yapılmıştır. Sanal veribanı kullanılmıştır. Kullanılan teknolojiler aşağıdaki gibi listelenmiştir.
+Bu projede örnek bir WinForm restorant kasa programı yapılmıştır. Sanal veritabanı kullanılmıştır. Kullanılan teknolojiler aşağıdaki gibi listelenmiştir.
 
  1. DevExpress
  2. Linq
